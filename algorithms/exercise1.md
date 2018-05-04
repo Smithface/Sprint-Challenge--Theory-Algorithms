@@ -10,7 +10,10 @@ while (a < n * n * n) {   // O(n^3)
 ```
 ## O(n<sup>3</sup>)
 
----
+
+
+
+
 ```
 b) // input array is of length n
 
@@ -20,6 +23,10 @@ while (array[i] > x && i >= 0) {
 }
 ```
 ## O(log<sub>2</sub>(n))
+
+
+
+
 
 ```
 c)
@@ -34,6 +41,10 @@ for (i = 0; i < Math.sqrt(n) / 2; i++) {    //sqrt(n)/2
 }
 ```
 ## O(1/2 * sqrt(n)) -> O(sqrt(n))
+
+
+
+
 
 ```
 d)
@@ -63,6 +74,10 @@ for (i = 0; i < n; i++) {                  //n
 ```
 ## O (n<sup>3</sup>)
 
+
+
+
+
 ```
 f)
 
@@ -72,6 +87,10 @@ bunnyEars = function (bunnies) { // here bunnies === n
 }
 ```
 ## O(n)
+
+
+
+
 
 ```
 g)
