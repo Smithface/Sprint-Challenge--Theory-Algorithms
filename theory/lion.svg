@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="237.5" cy="94.5" rx="30" ry="30"/>
+	<text x="216.5" y="100.5" font-family="Times New Roman" font-size="20">sleep</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="237.5" cy="387.5" rx="30" ry="30"/>
+	<text x="219.5" y="393.5" font-family="Times New Roman" font-size="20">hunt</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="657.5" cy="387.5" rx="30" ry="30"/>
+	<text x="645.5" y="393.5" font-family="Times New Roman" font-size="20">eat</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="657.5" cy="94.5" rx="30" ry="30"/>
+	<text x="635.5" y="100.5" font-family="Times New Roman" font-size="20">preen</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="421.5" cy="564.5" rx="30" ry="30"/>
+	<text x="399.5" y="570.5" font-family="Times New Roman" font-size="20">death</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="107.5" cy="59.5" rx="30" ry="30"/>
+	<text x="94.5" y="65.5" font-family="Times New Roman" font-size="20">life</text>
+	<polygon stroke="black" stroke-width="1" points="267.5,94.5 627.5,94.5"/>
+	<polygon fill="black" stroke-width="1" points="627.5,94.5 619.5,89.5 619.5,99.5"/>
+	<text x="348.5" y="115.5" font-family="Times New Roman" font-size="20">wake up with messy hair</text>
+	<polygon stroke="black" stroke-width="1" points="237.5,124.5 237.5,357.5"/>
+	<polygon fill="black" stroke-width="1" points="237.5,357.5 242.5,349.5 232.5,349.5"/>
+	<text x="242.5" y="247.5" font-family="Times New Roman" font-size="20">wake up hungry</text>
+	<polygon stroke="black" stroke-width="1" points="136.468,67.299 208.532,86.701"/>
+	<polygon fill="black" stroke-width="1" points="208.532,86.701 202.106,79.793 199.507,89.449"/>
+	<text x="161.5" y="98.5" font-family="Times New Roman" font-size="20">&#949;</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 395.855,548.942 A 516.505,516.505 0 0 1 254.041,412.523"/>
+	<polygon fill="black" stroke-width="1" points="395.855,548.942 391.855,540.398 386.422,548.793"/>
+	<text x="251.5" y="508.5" font-family="Times New Roman" font-size="20">no food</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 639.235,411.293 A 494.446,494.446 0 0 1 449.456,553.628"/>
+	<polygon fill="black" stroke-width="1" points="449.456,553.628 458.773,555.106 454.867,545.9"/>
+	<text x="558.5" y="514.5" font-family="Times New Roman" font-size="20">choke</text>
+	<polygon stroke="black" stroke-width="1" points="657.5,357.5 657.5,124.5"/>
+	<polygon fill="black" stroke-width="1" points="657.5,124.5 652.5,132.5 662.5,132.5"/>
+	<text x="662.5" y="247.5" font-family="Times New Roman" font-size="20">covered in blood</text>
+	<polygon stroke="black" stroke-width="1" points="267.5,387.5 627.5,387.5"/>
+	<polygon fill="black" stroke-width="1" points="627.5,387.5 619.5,382.5 619.5,392.5"/>
+	<text x="376.5" y="408.5" font-family="Times New Roman" font-size="20">caught something</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 264.689,81.832 A 465.293,465.293 0 0 1 630.311,81.832"/>
+	<polygon fill="black" stroke-width="1" points="264.689,81.832 274.01,83.287 270.081,74.091"/>
+	<text x="327.5" y="35.5" font-family="Times New Roman" font-size="20">done preening and bored/tired</text>
+	<polygon stroke="black" stroke-width="1" points="632.896,111.665 262.104,370.335"/>
+	<polygon fill="black" stroke-width="1" points="262.104,370.335 271.526,369.859 265.805,361.658"/>
+	<text x="452.5" y="261.5" font-family="Times New Roman" font-size="20">food appears</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 391.927,569.437 A 255.192,255.192 0 0 1 212.435,110.953"/>
+	<polygon fill="black" stroke-width="1" points="391.927,569.437 383.44,565.317 384.504,575.261"/>
+	<text x="61.5" y="423.5" font-family="Times New Roman" font-size="20">old age</text>
+</svg>
