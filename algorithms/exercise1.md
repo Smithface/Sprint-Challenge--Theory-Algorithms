@@ -8,7 +8,7 @@ while (a < n * n * n) {   // O(n^3)
   a = a + n * n;
 }
 ```
-## O(n^3^)
+## O(n<sup>3</sup>)
 
 ---
 ```
@@ -19,7 +19,7 @@ while (array[i] > x && i >= 0) {
   i = i/2;
 }
 ```
-## O(log~2~(n))
+## O(log<sub>2</sub>(n))
 
 ```
 c)
@@ -45,7 +45,7 @@ for (i = 1; i < n; i *= 2) {      //log(n)
   }
 }
 ```
-## O(n log~2~(n))
+## O(n log<sub>2</sub>(n))
 
 ```
 e)
@@ -61,7 +61,7 @@ for (i = 0; i < n; i++) {                  //n
   }
 }
 ```
-## O (n^3^)
+## O (n<sup>3</sup>)
 
 ```
 f)
